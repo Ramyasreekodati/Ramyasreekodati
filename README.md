@@ -28,10 +28,6 @@
 
 ## 🖼️ Data Science
 
-<img align="right" alt="Data Science GIF" width="400" src="https://i0.wp.com/kotapoint.in/wp-content/uploads/2023/09/ds-3.gif?fit=1000%2C700&ssl=1" />
-<!-- Replace with your data science-related image URL -->
-
----
 
 <h3 align="center">📊 GitHub Stats & Contribution Streak</h3>
 
