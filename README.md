@@ -24,7 +24,7 @@
 
 📄 [Know about my experiences](https://drive.google.com/file/d/1q16vGjQt5RSg7yGyd_sgohAicgWqbGnA/view?usp=sharing)
 
-💼 [My Portfolio](https://ayushi-portifolio.netlify.app/)
+💼 [My Portfolio]()
 
 ## 🖼️ Data Science
 
